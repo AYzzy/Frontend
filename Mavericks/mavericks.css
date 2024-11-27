@@ -1,0 +1,37 @@
+.nav{
+    display: flex;
+    justify-content :space-evenly;
+    /*margi-top: 10px;*/
+}
+.mid-section{
+    display: flex;
+    gap: 15px;
+    font-weight: 400;
+    justify-content: center;
+    align-items: center;
+/*    padding: 10px*/
+}
+.mid-section > p{
+    color: #4d4d4d;
+    font-size: 16px;
+}
+.hero-section{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 45px;
+}
+
+.hero-section> div >hi{
+    color: #4d4d4d;
+    font-weight: bolder;
+    font-size: 45px;
+}
+.client{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+
+    margin-top: 45px;
+
+}
+
